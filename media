@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+    <meta charset="UTF-8">
+    <title>Multimedija</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<h1>Multimedijski sadržaj</h1>
+
+<h2>Slike</h2>
+<img src="slike/ghost of torture.jpg" width="300" alt="Slika 1">
+<img src="slike/kao nekaj.png" width="500" alt="Slika 2">
+
+<h2>Video</h2>
+<video width="400" controls>
+  <source src="video/video zadatak cj9.mp4" type="video/mp4">
+</video>
+
+<h2>Zvuk</h2>
+<audio controls>
+  <source src="audio/Project_198 short.mp3" type="audio/mp3">
+</audio>
+<br><br>
+<a href="index.html">⬅ Povratak na početnu</a>
+
+</body>
+</html>
